@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T17:23:52.772Z" agent="5.0 (Windows)" etag="-vMEhkN_o3h4uhCbQ4fz" version="16.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T17:26:17.679Z" agent="5.0 (Windows)" etag="tC6U4bQkyAR4iaA0XceN" version="16.5.4" type="github">
   <diagram id="ZbN3SIYdwVLS3I_vgF8O" name="Page-1">
     <mxGraphModel dx="1042" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XlwFv0oscxkEeIsIY-Ll-9" value="DOI Manager" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png;rounded=1;dashed=1;sketch=0;" vertex="1" parent="1">
+        <mxCell id="XlwFv0oscxkEeIsIY-Ll-9" value="DOI Manager" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png;rounded=1;dashed=1;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="387" y="543" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XlwFv0oscxkEeIsIY-Ll-22" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=#000000;" edge="1" parent="1" source="XlwFv0oscxkEeIsIY-Ll-10" target="XlwFv0oscxkEeIsIY-Ll-20">
@@ -124,7 +124,7 @@
             <mxPoint x="26" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XlwFv0oscxkEeIsIY-Ll-10" value="Engine" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png;rounded=1;dashed=1;sketch=0;" vertex="1" parent="1">
+        <mxCell id="XlwFv0oscxkEeIsIY-Ll-10" value="Engine" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png;rounded=1;dashed=1;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="387" y="763" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XlwFv0oscxkEeIsIY-Ll-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=#000000;exitX=0.005;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XlwFv0oscxkEeIsIY-Ll-19" target="XlwFv0oscxkEeIsIY-Ll-10">
@@ -153,16 +153,16 @@
         <mxCell id="XlwFv0oscxkEeIsIY-Ll-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=#000000;exitX=0.45;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XlwFv0oscxkEeIsIY-Ll-44" target="XlwFv0oscxkEeIsIY-Ll-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XlwFv0oscxkEeIsIY-Ll-64" value="doi_metadata" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="XlwFv0oscxkEeIsIY-Ll-63">
+        <mxCell id="XlwFv0oscxkEeIsIY-Ll-64" value="doi_metadata" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;labelBackgroundColor=none;" vertex="1" connectable="0" parent="XlwFv0oscxkEeIsIY-Ll-63">
           <mxGeometry x="-0.029" relative="1" as="geometry">
             <mxPoint x="1" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XlwFv0oscxkEeIsIY-Ll-44" value="Transformer" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png;rounded=1;dashed=1;sketch=0;" vertex="1" parent="1">
+        <mxCell id="XlwFv0oscxkEeIsIY-Ll-44" value="Transformer" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png;rounded=1;dashed=1;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="568" y="543" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XlwFv0oscxkEeIsIY-Ll-45" value="IANUS" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.sites.website;rounded=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="190" y="310" width="59" height="49" as="geometry" />
+          <mxGeometry x="227" y="310" width="59" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XlwFv0oscxkEeIsIY-Ll-47" value="&lt;div&gt;DOI Proxy&lt;/div&gt;" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.proxy;rounded=1;labelBackgroundColor=none;sketch=0;fontColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="494" y="300" width="46" height="46" as="geometry" />
