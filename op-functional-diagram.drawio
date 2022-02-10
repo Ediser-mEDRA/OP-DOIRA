@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T16:36:37.039Z" agent="5.0 (Windows)" etag="uGdKgCM-FomyOrerKe8r" version="16.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T16:37:21.879Z" agent="5.0 (Windows)" etag="rzm3tNuvpvxXysyM8xrK" version="16.5.4" type="github">
   <diagram id="ZbN3SIYdwVLS3I_vgF8O" name="Page-1">
     <mxGraphModel dx="1042" dy="1705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
           <mxGeometry x="311" y="159" width="59" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XlwFv0oscxkEeIsIY-Ll-47" value="&lt;div&gt;DOI Proxy&lt;/div&gt;" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.proxy;rounded=1;labelBackgroundColor=none;sketch=0;fontColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="224" y="156" width="46" height="46" as="geometry" />
+          <mxGeometry x="531" y="157.5" width="46" height="46" as="geometry" />
         </mxCell>
         <mxCell id="XlwFv0oscxkEeIsIY-Ll-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=#000000;" edge="1" parent="1" source="XlwFv0oscxkEeIsIY-Ll-49" target="XlwFv0oscxkEeIsIY-Ll-50">
           <mxGeometry relative="1" as="geometry" />
